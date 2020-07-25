@@ -1,0 +1,35 @@
+.navbarbg {
+    background-color: #3ba3fb;
+}
+.container-fluid {
+  padding: 0% 15% 0% 15%;
+}
+.container-carousel {
+  padding: 0% 15% 0% 15%;
+}
+
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+  display: block;
+}
+body {
+  background-color: #fff;
+}
+.hobby-section {
+  background-color: #2699fb;
+    padding: 3% 5% 5% 5%;
+}
+.white-text {
+  color: #FFFFFF;
+}
+.text {
+  font-size: 1rem;
+  line-height: 1.5;
+  text-align: center;
+}
+.text-header {
+  font-size: 2rem;
+  line-height: 1.5;
+  text-align: center;
+}
